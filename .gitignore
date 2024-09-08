@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files - Include only if data is not sensitive and small in size
+# *.csv
+# *.json
+# *.xlsx
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
